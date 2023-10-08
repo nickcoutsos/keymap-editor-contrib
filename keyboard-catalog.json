@@ -1,0 +1,294 @@
+{
+  "a_dux": {
+    "id": "a_dux",
+    "name": "A. Dux"
+  },
+  "bat43": {
+    "id": "bat43",
+    "name": "BAT43"
+  },
+  "bdn9_rev2": {
+    "id": "bdn9_rev2",
+    "name": "BDN9 Rev2"
+  },
+  "bfo9000": {
+    "id": "bfo9000",
+    "name": "BFO-9000"
+  },
+  "boardsource3x4": {
+    "id": "boardsource3x4",
+    "name": "Boardsource 3x4 Macropad"
+  },
+  "boardsource5x12": {
+    "id": "boardsource5x12",
+    "name": "Boardsource 5x12"
+  },
+  "bt60_v1": {
+    "id": "bt60_v1",
+    "name": "BT60 V1 Soldered"
+  },
+  "bt60_v1_hs": {
+    "id": "bt60_v1_hs",
+    "name": "BT60 V1 Hotswap"
+  },
+  "bt60_v2": {
+    "id": "bt60_v2",
+    "name": "BT60 V2"
+  },
+  "bt65_v1": {
+    "id": "bt65_v1",
+    "name": "BT65"
+  },
+  "bt75_v1": {
+    "id": "bt75_v1",
+    "name": "BT75_V1"
+  },
+  "chalice": {
+    "id": "chalice",
+    "name": "Chalice"
+  },
+  "clog": {
+    "id": "clog",
+    "name": "Clog"
+  },
+  "contra": {
+    "id": "contra",
+    "name": "Contra"
+  },
+  "corne": {
+    "id": "corne",
+    "name": "Corne"
+  },
+  "corneish_zen": {
+    "id": "corneish_zen",
+    "name": "Corneish Zen v2"
+  },
+  "cradio": {
+    "id": "cradio",
+    "name": "Cradio/Sweep"
+  },
+  "crbn": {
+    "id": "crbn",
+    "name": "CRBN Featherlight"
+  },
+  "eek": {
+    "id": "eek",
+    "name": "eek!"
+  },
+  "elephant42": {
+    "id": "elephant42",
+    "name": "Elephant42"
+  },
+  "ergodash": {
+    "id": "ergodash",
+    "name": "Ergodash"
+  },
+  "eternal_keypad": {
+    "id": "eternal_keypad",
+    "name": "Eternal Keypad"
+  },
+  "eternal_keypad_lefty": {
+    "id": "eternal_keypad_lefty",
+    "name": "Eternal Keypad Lefty"
+  },
+  "ferris_rev02": {
+    "id": "ferris_rev02",
+    "name": "Ferris 0.2"
+  },
+  "fourier": {
+    "id": "fourier",
+    "name": "Fourier Rev. 1"
+  },
+  "helix": {
+    "id": "helix",
+    "name": "Helix"
+  },
+  "hummingbird": {
+    "id": "hummingbird",
+    "name": "Hummingbird"
+  },
+  "iris": {
+    "id": "iris",
+    "name": "Iris"
+  },
+  "jian": {
+    "id": "jian",
+    "name": "Jian"
+  },
+  "jiran": {
+    "id": "jiran",
+    "name": "Jiran"
+  },
+  "jorne": {
+    "id": "jorne",
+    "name": "Jorne"
+  },
+  "kbdfans_tofu65_v2": {
+    "id": "kbdfans_tofu65_v2",
+    "name": "KBDfans Tofu65 2.0"
+  },
+  "knob_goblin": {
+    "id": "knob_goblin",
+    "name": "Knob Goblin"
+  },
+  "kyria": {
+    "id": "kyria",
+    "name": "Kyria"
+  },
+  "kyria_rev2": {
+    "id": "kyria_rev2",
+    "name": "Kyria Rev2"
+  },
+  "kyria_rev3": {
+    "id": "kyria_rev3",
+    "name": "Kyria Rev3"
+  },
+  "leeloo": {
+    "id": "leeloo",
+    "name": "Leeloo"
+  },
+  "leeloo_micro": {
+    "id": "leeloo_micro",
+    "name": "Leeloo-Micro"
+  },
+  "leeloo_rev2": {
+    "id": "leeloo_rev2",
+    "name": "Leeloo v2"
+  },
+  "lily58": {
+    "id": "lily58",
+    "name": "Lily58"
+  },
+  "lotus58": {
+    "id": "lotus58",
+    "name": "Lotus58"
+  },
+  "m60": {
+    "id": "m60",
+    "name": "MakerDiary m60"
+  },
+  "microdox": {
+    "id": "microdox",
+    "name": "Microdox"
+  },
+  "murphpad": {
+    "id": "murphpad",
+    "name": "MurphPad"
+  },
+  "naked60": {
+    "id": "naked60",
+    "name": "Naked60"
+  },
+  "nibble": {
+    "id": "nibble",
+    "name": "Nibble"
+  },
+  "nice60": {
+    "id": "nice60",
+    "name": "nice!60"
+  },
+  "osprette": {
+    "id": "osprette",
+    "name": "Osprette"
+  },
+  "pancake": {
+    "id": "pancake",
+    "name": "Pancake"
+  },
+  "planck_rev6": {
+    "id": "planck_rev6",
+    "name": "Planck Rev6"
+  },
+  "preonic_rev3": {
+    "id": "preonic_rev3",
+    "name": "Preonic Rev3"
+  },
+  "qaz": {
+    "id": "qaz",
+    "name": "QAZ"
+  },
+  "quefrency": {
+    "id": "quefrency",
+    "name": "Quefrency Rev. 1"
+  },
+  "redox": {
+    "id": "redox",
+    "name": "Redox"
+  },
+  "reviung41": {
+    "id": "reviung41",
+    "name": "REVIUNG41"
+  },
+  "reviung5": {
+    "id": "reviung5",
+    "name": "REVIUNG5"
+  },
+  "romac": {
+    "id": "romac",
+    "name": "Romac Macropad"
+  },
+  "romac_plus": {
+    "id": "romac_plus",
+    "name": "Romac+ Macropad"
+  },
+  "s40nc": {
+    "id": "s40nc",
+    "name": "S40NC"
+  },
+  "snap": {
+    "id": "snap",
+    "name": "SNAP"
+  },
+  "sofle": {
+    "id": "sofle",
+    "name": "Sofle"
+  },
+  "splitkb_aurora_corne": {
+    "id": "splitkb_aurora_corne",
+    "name": "splitkb.com Aurora Corne"
+  },
+  "splitkb_aurora_lily58": {
+    "id": "splitkb_aurora_lily58",
+    "name": "splitkb.com Aurora Lily58"
+  },
+  "splitkb_aurora_sofle": {
+    "id": "splitkb_aurora_sofle",
+    "name": "splitkb.com Aurora Sofle"
+  },
+  "splitkb_aurora_sweep": {
+    "id": "splitkb_aurora_sweep",
+    "name": "splitkb.com Aurora Sweep"
+  },
+  "splitreus62": {
+    "id": "splitreus62",
+    "name": "Splitreus62"
+  },
+  "tg4x": {
+    "id": "tg4x",
+    "name": "TG4x"
+  },
+  "tidbit": {
+    "id": "tidbit",
+    "name": "Tidbit Numpad"
+  },
+  "totem": {
+    "id": "totem",
+    "name": "Totem"
+  },
+  "two_percent_milk": {
+    "id": "two_percent_milk",
+    "name": "2% Milk"
+  },
+  "waterfowl": {
+    "id": "waterfowl",
+    "name": "Waterfowl"
+  },
+  "zmk_uno": {
+    "id": "zmk_uno",
+    "name": "ZMK Uno"
+  },
+  "zodiark": {
+    "id": "zodiark",
+    "name": "Zodiark"
+  }
+}
