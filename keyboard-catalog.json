@@ -3,6 +3,10 @@
     "id": "a_dux",
     "name": "A. Dux"
   },
+  "adv360pro": {
+    "id": "adv360pro",
+    "name": "Kinesis Advantage360"
+  },
   "bat43": {
     "id": "bat43",
     "name": "BAT43"
@@ -71,6 +75,10 @@
     "id": "crbn",
     "name": "CRBN Featherlight"
   },
+  "dao": {
+    "id": "dao",
+    "name": "dao"
+  },
   "eek": {
     "id": "eek",
     "name": "eek!"
@@ -99,13 +107,25 @@
     "id": "fourier",
     "name": "Fourier Rev. 1"
   },
+  "glove80": {
+    "id": "glove80",
+    "name": "Glove80"
+  },
   "helix": {
     "id": "helix",
     "name": "Helix"
   },
+  "hillside46": {
+    "id": "hillside46",
+    "name": "Hillside46"
+  },
   "hummingbird": {
     "id": "hummingbird",
     "name": "Hummingbird"
+  },
+  "hw75_keyboard": {
+    "id": "hw75_keyboard",
+    "name": "HelloWord Keyboard"
   },
   "iris": {
     "id": "iris",
@@ -143,6 +163,10 @@
     "id": "kyria_rev3",
     "name": "Kyria Rev3"
   },
+  "le_chiffre_stm32": {
+    "id": "le_chiffre_stm32",
+    "name": "Le Chiffre (stm32)"
+  },
   "leeloo": {
     "id": "leeloo",
     "name": "Leeloo"
@@ -162,6 +186,10 @@
   "lotus58": {
     "id": "lotus58",
     "name": "Lotus58"
+  },
+  "lpgalaxy_blank_slate": {
+    "id": "lpgalaxy_blank_slate",
+    "name": "Blank Slate"
   },
   "m60": {
     "id": "m60",
@@ -215,6 +243,10 @@
     "id": "redox",
     "name": "Redox"
   },
+  "reviung34": {
+    "id": "reviung34",
+    "name": "REVIUNG34"
+  },
   "reviung41": {
     "id": "reviung41",
     "name": "REVIUNG41"
@@ -222,6 +254,10 @@
   "reviung5": {
     "id": "reviung5",
     "name": "REVIUNG5"
+  },
+  "reviung53": {
+    "id": "reviung53",
+    "name": "Reviung53"
   },
   "romac": {
     "id": "romac",
@@ -235,6 +271,10 @@
     "id": "s40nc",
     "name": "S40NC"
   },
+  "slicemk_ergodox": {
+    "id": "slicemk_ergodox",
+    "name": "SliceMK Ergodox"
+  },
   "snap": {
     "id": "snap",
     "name": "SNAP"
@@ -246,6 +286,10 @@
   "splitkb_aurora_corne": {
     "id": "splitkb_aurora_corne",
     "name": "splitkb.com Aurora Corne"
+  },
+  "splitkb_aurora_helix": {
+    "id": "splitkb_aurora_helix",
+    "name": "splitkb.com Aurora Helix"
   },
   "splitkb_aurora_lily58": {
     "id": "splitkb_aurora_lily58",
@@ -282,6 +326,10 @@
   "waterfowl": {
     "id": "waterfowl",
     "name": "Waterfowl"
+  },
+  "waytools_textblade": {
+    "id": "waytools_textblade",
+    "name": "TextBlade"
   },
   "zmk_uno": {
     "id": "zmk_uno",
