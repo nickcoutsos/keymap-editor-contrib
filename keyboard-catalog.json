@@ -239,6 +239,10 @@
     "id": "quefrency",
     "name": "Quefrency Rev. 1"
   },
+  "rchoc": {
+    "id": "rchoc",
+    "name": "ruby-choccy"
+  },
   "redox": {
     "id": "redox",
     "name": "Redox"
@@ -266,10 +270,6 @@
   "romac_plus": {
     "id": "romac_plus",
     "name": "Romac+ Macropad"
-  },
-  "rchoc": {
-    "id": "rchoc",
-    "name": "ruby-choccy"
   },
   "s40nc": {
     "id": "s40nc",
