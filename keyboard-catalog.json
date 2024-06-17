@@ -239,6 +239,10 @@
     "id": "quefrency",
     "name": "Quefrency Rev. 1"
   },
+  "rchoc": {
+    "id": "rchoc",
+    "name": "ruby-choccy"
+  },
   "redox": {
     "id": "redox",
     "name": "Redox"
