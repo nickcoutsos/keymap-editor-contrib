@@ -267,6 +267,10 @@
     "id": "romac_plus",
     "name": "Romac+ Macropad"
   },
+  "rchoc": {
+    "id": "rchoc",
+    "name": "ruby-choccy"
+  },
   "s40nc": {
     "id": "s40nc",
     "name": "S40NC"
